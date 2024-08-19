@@ -1,4 +1,8 @@
-## Resume: Fuyuko Gratton
+---
+layout: page
+title: "Resume"
+---
+## Fuyuko Gratton
 
 **LinkedIn:** [linkedin.com/in/fuyuko](https://www.linkedin.com/in/fuyuko){:target="_blank"}  
 **URL:** [fuyuko.net](https://fuyuko.net)
