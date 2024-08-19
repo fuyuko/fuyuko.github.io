@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css" />
-
 ## Resume: Fuyuko Gratton
 
 **LinkedIn:** [linkedin.com/in/fuyuko](https://www.linkedin.com/in/fuyuko){:target="_blank"}  
