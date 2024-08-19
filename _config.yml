@@ -4,4 +4,4 @@ author:
   name: fuyuko
 
 # Build settings
-theme: jekyll-theme-tactile
+remote_theme: jekyll/tactile
