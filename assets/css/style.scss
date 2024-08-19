@@ -6,6 +6,21 @@
 $screen-small: 300px;
 $screen-medium: 900px;
 
+$green1: #539a01;   /* bright green - h3 */
+$green2: #467f03;   /* dark green - link */
+
+h3{
+    color: $green1;
+}
+
+a{
+    color: $green2;
+    &:hover{
+        color: $green1;
+    }
+}
+
+
 ol, ul{
     padding-left: 15px;
 
@@ -53,10 +68,14 @@ header{
         li{
             display: inline;
             padding: 0px 10px;
+            font-weight: bold;
             border-right: 1px solid #bbb;
-
             &:last-child{
                 border-right: none;
+            }
+            
+            a{
+                color: $green1;
             }
         }
     }
