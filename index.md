@@ -2,4 +2,4 @@
 layout: home 
 ---
 
-Welcome to my new blog!
+fuyuko.net homepage under construction.
