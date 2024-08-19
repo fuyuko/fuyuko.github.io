@@ -26,6 +26,10 @@ header{
             color: #303030;
         }
     }
+    h2{
+        font-size: 18px;
+        text-transform: lowercase;
+    }
 }
 
 .inner{
@@ -39,7 +43,7 @@ header{
 
 #nav{
     padding: 10px 0px;
-    
+
     ul {
         list-style-type: none;
         margin: 0;
