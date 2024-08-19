@@ -3,13 +3,29 @@
 
 @import "{{ site.theme }}";
 
+$screen-small: 300px;
+$screen-medium: 900px;
+
 ol, ul{
     padding-left: 15px;
+
+    li{
+        padding-left: 0px;
+    }
 }
 
 header{
     h1{
         text-transform: uppercase;
+    }
+}
+
+.inner{
+    @media screen and (max-width: $screen-small) {
+        width: $screen-small;
+    }
+    @media screen and (min-width: $screen-medium) {
+        width: $screen-medium;
     }
 }
     
