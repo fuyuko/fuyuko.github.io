@@ -51,7 +51,7 @@ Bilingual (English and Japanese) Technical Customer Support Specialist with a fo
 ##### Rochester Institute of Technology  
 MS, Information Technology (*Not Completed*) | 2002 - 2009  
 
-##### Kyoto Computer Gakuin**  
+##### Kyoto Computer Gakuin  
 KCG-RIT Joint Preparatory Program for MS | 2001 - 2002  
 
 ##### University of California, Los Angeles 
