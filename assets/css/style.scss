@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.markdown-body{
-    h2 {
-        border-bottom: none;
-    }
-} 
+ol, ul{
+    padding-left: 15px;
+}
     
