@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Resume
 ---
-## Resume: Fuyuko Gratton
+## Fuyuko Gratton
 
 **LinkedIn:** [linkedin.com/in/fuyuko](https://www.linkedin.com/in/fuyuko){:target="_blank"}  
 **URL:** [fuyuko.net](https://fuyuko.net)
