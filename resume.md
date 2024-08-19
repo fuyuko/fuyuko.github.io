@@ -1,7 +1,4 @@
----
-layout: page
-title: Resume
----
+<link rel="stylesheet" href="style.css" />
 
 ## Resume: Fuyuko Gratton
 
