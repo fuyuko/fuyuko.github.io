@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resume
+---
+
 # Fuyuko Gratton
 
 **LinkedIn:** [linkedin.com/in/fuyuko](https://www.linkedin.com/in/fuyuko)
