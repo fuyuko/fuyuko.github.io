@@ -39,9 +39,16 @@ header{
         list-style-type: none;
         margin: 0;
         padding: 0;
+        text-align: right;
 
         li{
             display: inline;
+            padding-left: 20px;
+            border-right: 1px solid #bbb;
+
+            &:last-child{
+                border-right: none;
+            }
         }
     }
 }
