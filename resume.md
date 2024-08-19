@@ -3,9 +3,9 @@ layout: page
 title: Resume
 ---
 
-# Fuyuko Gratton
+## Fuyuko Gratton
 
-**LinkedIn:** [linkedin.com/in/fuyuko](https://www.linkedin.com/in/fuyuko)
+**LinkedIn:** [linkedin.com/in/fuyuko](https://www.linkedin.com/in/fuyuko)  
 **URL:** [fuyuko.net](https://fuyuko.net)
 
 --- 
