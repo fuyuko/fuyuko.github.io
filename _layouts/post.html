@@ -4,7 +4,7 @@ layout: default
 
 
 <h2>{{ page.title }}</h2>
-<small>{{ page.date | date: "%-d %B %Y" }} by {{ page.author | default: site.author }}</small>
+<p class="view">{{ page.date | date: "%-d %B %Y" }} by {{ page.author | default: site.author }}</p>
 
 {{content}}
 
