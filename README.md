@@ -10,3 +10,8 @@
 
 Fuyuko Gratton
 
+## Resources
+
+* [GitHub Pages documentation](https://docs.github.com/en/pages)
+* [Exploring Jekyll Basics via a Blog](https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html)
+
