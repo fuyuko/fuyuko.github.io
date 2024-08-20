@@ -1,6 +1,5 @@
 ---
-layout: pdefault
-permalink: /travel/
+layout: default
 title: Travel
 ---
 

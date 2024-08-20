@@ -14,4 +14,6 @@ Fuyuko Gratton
 
 * [GitHub Pages documentation](https://docs.github.com/en/pages)
 * [Exploring Jekyll Basics via a Blog](https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html)
+* [3 Simple steps to setup Jekyll Categories and Tags](https://blog.webjeda.com/jekyll-categories/#create-a-category-page)
+
 
