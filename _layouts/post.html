@@ -7,7 +7,7 @@ layout: default
 
 {% if page.categories %}
 <small>categories: 
-{% for category in page.categories %}{{ category }}&nbsp;{% endfor %}
+{% for category in page.categories %}<a a href="/{{ category }}">{{ category }}</a>&nbsp;{% endfor %}
 </small><br/>
 {% endif %}
 
