@@ -5,6 +5,11 @@ layout: default
 <p class="view">{{ page.date | date: "%-d %B %Y" }} by {{ page.author | default: site.author }}</p>
 {{content}}
 
+{% if page.categories %}
+<small>categories: 
+{% for category in page.categories %}<a a href="/{{ category }}">{{ category }}</a>&nbsp;{% endfor %}
+{{ page.categories | prepend: ""join: ",  " }}</small><br/>
+{% endif %}
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <small>tags: {{ page.tags | join: " " }}</small>
 {% endif %}
