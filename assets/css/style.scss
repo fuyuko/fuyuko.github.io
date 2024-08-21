@@ -11,7 +11,7 @@ $green2: #467f03;   /* darker green - link */
 $green3: #4a642c;   /* darkest green - h5 */
 
 h2{ /* post.title, page.title */
-    font-size: 32px;
+    font-size: 34px;
     &.category-head{
         text-transform: capitalize;
     }
@@ -22,11 +22,13 @@ h2{ /* post.title, page.title */
 
 h3{
     color: $green1;
+    font-size: 26px;
     text-transform: uppercase;
 }
 
 h4{
     margin-bottom: 5px;
+    font-size: 20px;
 }
 
 h5{
