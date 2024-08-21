@@ -2,14 +2,14 @@
 layout: default
 ---
 <h2 class="post-title">{{ page.title }}</h2>
-<p class="view">{{ page.date | date: "%-d %B %Y" }} by {{ page.author | default: site.author }}</p>
-{% if page.categories %}
-<p class="view"><small>categories: 
+<p class="view">{{ page.date | date: "%-d %B %Y" }} by {{ page.author | default: site.author }}
+{% if page.categories %}<br/>
+<small>categories: 
 {% for category in page.categories %}<a a href="/{{ category }}">{{ category }}</a>&nbsp;{% endfor %}
-</small></p>
+</small><br/>>
 {% endif %}
 {% if page.tags %}
-<p class="view"><small>tags: {{ page.tags | join: " " }}</small></p>
+<small>tags: {{ page.tags | join: " " }}</small></p>
 {% endif %}
 <hr>
 {{content}}
