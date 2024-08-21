@@ -7,9 +7,10 @@ layout: default
 
 {% if page.categories %}
 <small>categories: 
-{% for category in page.categories %}<a a href="/{{ category }}">{{ category }}</a>&nbsp;{% endfor %}
+{% for category in page.categories %}{{ category }}&nbsp;{% endfor %}
 {{ page.categories | prepend: ""join: ",  " }}</small><br/>
 {% endif %}
+
 {% if page.tags %}
   <small>tags: {{ page.tags | join: " " }}</small>
 {% endif %}
