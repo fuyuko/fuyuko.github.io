@@ -116,25 +116,24 @@ header{
     }
 }
 
-.gallery{  /* image gallery */
-    ul{
-        list-style: none outside none;
-        margin: 0;
-        padding: 0;
+ul.gallery{  /* image gallery */
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
 
-        li{
-            float: left;
-                img{
-                    width: auto;
-                }
-
-        }
-    } 
+    li{
+        float: left;
+            img{
+                width: auto;
+            }
+    }
 
     &.three-columns{
         li{
             width: 33%;
         }
-    }
-}
+    }  
+} 
+
+  
     
