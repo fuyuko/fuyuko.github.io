@@ -115,4 +115,26 @@ header{
         }
     }
 }
+
+.gallery{  
+    ul{
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+
+        li{
+            float: left;
+                img{
+                    width: auto;
+                }
+
+        }
+    } 
+
+    &.3-column{
+        li{
+            width: 33%;
+        }
+    }
+}
     
