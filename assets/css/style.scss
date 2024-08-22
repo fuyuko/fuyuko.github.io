@@ -147,13 +147,9 @@ ul.gallery{  /* image gallery */
             }
 
             @media screen and (max-width: $screen-medium) {
-                width: 50%;
-                &:nth-child(n+3){      /* 3th to last children */
-                    margin-top: -7px;
-                }
-                &:nth-last-child(-n+2){  /* last 3 children */
-                    margin-bottom: 20px;
-                }
+                width: 100%;
+                float: none;
+                magin: 0 !important;
             }
 
         }
