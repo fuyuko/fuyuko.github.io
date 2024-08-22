@@ -56,7 +56,6 @@ a{
     }
 }
 
-
 ol, ul{
     padding-left: 15px;
 
@@ -125,11 +124,14 @@ ul.gallery{  /* image gallery */
     li{
         float: left;
         display: block;
-        margin-bottom: 20px;
         list-style: none;
-            img{
-                width: auto;
-            }
+        &:nth-last-child(-n+3){
+            margin-bottom: 20px;
+        }
+        img{
+            width: auto;
+        }
+
     }
 
     &.three-columns{
