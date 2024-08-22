@@ -125,7 +125,7 @@ ul.gallery{  /* image gallery */
         float: left;
         display: block;
         list-style: none;
-        &:nth-lchild(n+4){      /* 4th to last children */
+        &:nth-child(n+4){      /* 4th to last children */
             margin-top: -7px;
         }
         &:nth-last-child(-n+3){  /* last 3 children */
