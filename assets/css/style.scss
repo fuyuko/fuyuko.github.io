@@ -145,9 +145,9 @@ ul.gallery{  /* image gallery */
             &:nth-last-child(-n+3){  /* last 3 children */
                 margin-bottom: 20px;
             }
-            
+
             @media screen and (max-width: $screen-medium) {
-                width: 50%
+                width: 50%;
                 &:nth-child(n+3){      /* 3th to last children */
                     margin-top: -7px;
                 }
