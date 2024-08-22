@@ -127,10 +127,13 @@ ul.gallery{  /* image gallery */
             img{
                 width: auto;
             }
-        .three-column &{
+    }
+
+    &.three-columns{
+        li{
             width: 33%;
         }
-    } 
+    }  
 } 
 
   
