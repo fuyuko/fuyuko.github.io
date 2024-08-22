@@ -123,16 +123,14 @@ ul.gallery{  /* image gallery */
 
     li{
         float: left;
+        list-style: none;
             img{
                 width: auto;
             }
-    }
-
-    &.three-columns{
-        li{
+        .three-column &{
             width: 33%;
         }
-    }  
+    } 
 } 
 
   
