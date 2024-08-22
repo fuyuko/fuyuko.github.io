@@ -32,6 +32,7 @@ h4{
 }
 
 h5{
+    margin-bottom: 5px;
     color: $green3;
     font-size: 18px;
     font-weight: bold;
@@ -123,6 +124,8 @@ ul.gallery{  /* image gallery */
 
     li{
         float: left;
+        display: block;
+        margin-bottom: 20px;
         list-style: none;
             img{
                 width: auto;
