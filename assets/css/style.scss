@@ -68,6 +68,17 @@ ol, ul{
     }
 }
 
+img{
+    &.picture-border{
+        border: solid 5px white;
+        box-shadow: #aaa;
+    }
+    &.float-right{
+        float: right;
+        margin-left: 20px;
+    }
+}
+
 header{
     padding-top: 25px;
     padding-bottom: 10px;
