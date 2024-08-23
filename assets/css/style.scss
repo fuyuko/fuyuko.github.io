@@ -156,7 +156,7 @@ ul.gallery{  /* image gallery */
         li{
             width: 33%;
             &:nth-child(n+4){      /* 4th to last children */
-                margin-top: -7px;
+                margin-top: -12px;
                 @media screen and (max-width: $screen-medium) {
                     margin: 0;
                 }
