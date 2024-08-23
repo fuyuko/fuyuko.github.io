@@ -92,6 +92,18 @@ img{
     }
 }
 
+.inner{
+    @media screen and (max-width: $screen-small) {
+        max-width: $screen-small;
+    }
+    @media screen and (min-width: $screen-medium) {
+        max-width: $screen-medium;
+    }
+    @media screen and (min-width: $screen-large) {
+        width: $screen-large;
+    }
+}
+
 header{
     padding-top: 25px;
     padding-bottom: 10px;
@@ -107,22 +119,6 @@ header{
     h2{ /* site description */
         font-size: 18px;
         text-transform: lowercase;
-    }
-}
-
-.inner{
-    @media screen and (max-width: $screen-small) {
-        max-width: $screen-small;
-        width: 100%;
-        padding: 0 10px;
-    }
-    @media screen and (min-width: $screen-medium) {
-        max-width: $screen-medium;
-        width: 100%;
-        padding: 0 10px;
-    }
-    @media screen and (min-width: $screen-large) {
-        width: $screen-large;
     }
 }
 
