@@ -84,8 +84,8 @@ img{
         @media screen and (max-width: $screen-small) {
             display: block;
             float: none;
-            margin: 0 10px;
-            width: 100% !important;
+            margin: 0 0 10px 0;
+            width: 90%;
             max-width: 100% !important;
 
         }
@@ -113,6 +113,7 @@ header{
 .inner{
     @media screen and (max-width: $screen-small) {
         width: $screen-small;
+        padding: 0 10px;
     }
     @media screen and (min-width: $screen-medium) {
         width: $screen-medium;
