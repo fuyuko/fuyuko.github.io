@@ -54,7 +54,7 @@ p{
 
 a{
     color: $green2;
-    font-weight: 500;
+    font-weight: 500 !important;
     &:hover{
         color: $green1;
     }
