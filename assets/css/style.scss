@@ -159,7 +159,7 @@ ul.gallery{  /* image gallery */
         display: block;
         list-style: none;
         img{
-            @extend .picture-border
+            @extend .picture-border;
             width: auto;
         }
 
