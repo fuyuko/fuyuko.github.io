@@ -166,18 +166,7 @@ ul.gallery{  /* image gallery */
     &.three-columns{
         li{
             width: 33%;
-            &:nth-child(n+4){      /* 4th to last children */
-                margin-top: -12px;
-                @media screen and (max-width: $screen-medium) {
-                    margin: 0;
-                }
-            }
-            &:nth-last-child(-n+3){  /* last 3 children */
-                margin-bottom: 20px;
-                @media screen and (max-width: $screen-medium) {
-                    margin: 0;
-                }
-            }
+            margin-right: 5px;
 
             @media screen and (max-width: $screen-medium) {
                 width: 100%;
