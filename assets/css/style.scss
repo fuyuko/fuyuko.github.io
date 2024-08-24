@@ -73,23 +73,24 @@ ol, ul{
 }
 
 img{
-    margin-top: 5px;
-    &.picture-border{
-        border: solid 8px white;
-        box-shadow: 1px 2px 3px 2px $shadow;
-    }
-    &.float-right{
-        float: right;
-        margin-left: 20px;
+    margin-top: 5px; 
+}
 
-        @media screen and (max-width: $screen-small) {
-            display: block;
-            float: none;
-            margin: 0 0 10px 0;
-            width: 95%;
-            max-width: 100% !important;
+.picture-border{ /* used in image */
+    border: solid 8px white;
+    box-shadow: 1px 2px 3px 2px $shadow;
 
-        }
+.float-right{ /* used in image */
+    float: right;
+    margin-left: 20px;
+
+    @media screen and (max-width: $screen-small) {
+        display: block;
+        float: none;
+        margin: 0 0 10px 0;
+        width: 95%;
+        max-width: 100% !important;
+
     }
 }
 
@@ -158,6 +159,7 @@ ul.gallery{  /* image gallery */
         display: block;
         list-style: none;
         img{
+            @extend .picture-border
             width: auto;
         }
 
@@ -165,8 +167,8 @@ ul.gallery{  /* image gallery */
 
     &.three-columns{
         li{
-            width: 33%;
-            margin-right: 5px;
+            width: 32%;
+            margin-right: 1%;
             &:nth-child(3n){  /* last 3 children */
                 margin-right: 0;
             }
