@@ -167,7 +167,9 @@ ul.gallery{  /* image gallery */
         li{
             width: 33%;
             margin-right: 5px;
-
+            &:nth-child(3n){  /* last 3 children */
+                margin-right: 0;
+            }
             @media screen and (max-width: $screen-medium) {
                 width: 100%;
                 float: none;
