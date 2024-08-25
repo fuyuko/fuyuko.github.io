@@ -148,7 +148,15 @@ header{
     }
 }
 
-ul.gallery{  /* image gallery */
+.thumbnail{     /* thumbnail image for each post in category page */
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+ul.gallery{     /* image gallery */
     list-style: none outside none;
     margin: 0;
     padding: 0;
