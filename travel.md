@@ -12,6 +12,9 @@ title: Travel
         {% for post in site.categories[category_name] %}
             <article class="archive-item">
             <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>  
+            <div class="thumbnail">
+                <img src="images/{{ post.thumbnail }}" />
+            </div>
             {{ post.excerpt }}
             </article>
         {% endfor %}
