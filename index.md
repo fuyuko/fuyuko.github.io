@@ -2,6 +2,7 @@
 layout: default
 ---
 <div id="archives">
+<h2>Home</h2>
 {% for post in site.posts limit:10 %}
     <article class="archive-item">
         <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>  
