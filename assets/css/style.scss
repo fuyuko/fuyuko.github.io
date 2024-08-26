@@ -200,14 +200,18 @@ ul.gallery{     /* image gallery */
 
 #my-form{ /* contact form in the footer */
     margin: 10px 0;
+    width: 50%;
+    @media screen and (max-width: $screen-small) {
+        width: 100%;
+    }
     label{
         width: 20%;
     }
     input{
-        width: 80%;
+        width: 97%;
     }
     textarea{
-        width: 100%;
+        width: 97%;
     }
 }
     
