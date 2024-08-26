@@ -1,6 +1,8 @@
 fuyuko.github.io.code-workspace
 .DS_Store
+.sass-cache
 Gemfile
 Gemfile.lock
-_draft/
+*.gem
+.jekyll-cache
 images/.DS_Store
