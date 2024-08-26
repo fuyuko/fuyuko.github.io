@@ -201,6 +201,8 @@ ul.gallery{     /* image gallery */
 #my-form{ /* contact form in the footer */
     margin: 10px 0;
     width: 50%;
+    border-radius: 10px;
+    background-color: #ededed;
     @media screen and (max-width: $screen-small) {
         width: 100%;
     }
