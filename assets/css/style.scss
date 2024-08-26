@@ -204,14 +204,9 @@ ul.gallery{     /* image gallery */
     @media screen and (max-width: $screen-small) {
         width: 100%;
     }
-    label{
-        width: 20%;
-    }
-    input{
+    input, textarea{
         width: 97%;
-    }
-    textarea{
-        width: 97%;
+        display: block;
     }
 }
     
