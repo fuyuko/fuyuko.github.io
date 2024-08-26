@@ -204,8 +204,14 @@ ul.gallery{     /* image gallery */
     @media screen and (max-width: $screen-small) {
         width: 100%;
     }
+    label, button{
+        display: block;
+        margin-bottom: 5px;
+    }
     input, textarea{
         width: 97%;
+        margin-bottom: 10px;
+        padding: 5px;
         display: block;
     }
 }
