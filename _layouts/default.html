@@ -61,7 +61,7 @@
         </section>
 
         <footer>
-          <!-- modify this form HTML and place wherever you want your form -->
+          <!-- contact form -->
           <form id="my-form" action="https://formspree.io/f/meojnqao" method="POST">
             <label>Email:</label>
             <input type="email"  name="_replyto" id="email-address"  required="" />
@@ -69,8 +69,9 @@
             <input type="text" name="name" id="name" required="">
             <label for="telephone">Telephone Number (Optional)</label>
             <input type="telephone" name="telephone" id="telephone" placeholder="(555) 555-5555">
-            <label>Message:</label>
-            <input type="text" name="message" />
+            <label for="message">Message:</label>
+            <textarea rows="6" name="message" id="message" placeholder="Please enter your message here." required=""></textarea>
+            <input type="hidden" name="_subject" id="email-subject" value="Contact from submission at fuyuko.net">
             <button id="my-form-button">Submit</button>
             <p id="my-form-status"></p>
           </form>
