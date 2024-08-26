@@ -1,5 +1,6 @@
 fuyuko.github.io.code-workspace
 .DS_Store
 Gemfile
+Gemfile.lock
 _draft/
 images/.DS_Store
