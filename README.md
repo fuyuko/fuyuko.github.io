@@ -3,7 +3,7 @@
 ## Dependencies
 
 * Host - [GitHub Pages](https://pages.github.com/)
-* Theme - [Tactile theme](https://pages-themes.github.io/tactile/)
+* Theme - [Tactile theme](https://github.com/pages-themes/tactile) 
 
 
 ## Authors
