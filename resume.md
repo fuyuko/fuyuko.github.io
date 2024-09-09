@@ -44,6 +44,7 @@ Bilingual (English and Japanese) Technical Customer Support Specialist with a fo
 - **Programming**: PHP, JavaScript (jQuery), CSS, HTML, SQL, C++, Java.
 - **Server Administration**: Apache, VSFTP, IIS, MySQL, MSSQL, SmarterMail, Active Directory, DHCP, DNS, AWS (EC2, RDS, S3, Glacier, VPC, IAM).
 - **Tools**: SugarCRM, Zoho CRM, Zapier, GitHub, Mercurial.
+- **Languages**: native level Japanese, expert level English. 
 
 ---
 ### Education
