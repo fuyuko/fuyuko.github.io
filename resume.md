@@ -4,7 +4,7 @@ title: Resume
 ---
 ## Fuyuko Gratton
 
-[LinkedIn](https://www.linkedin.com/in/fuyuko){:target="_blank"} \| [goodreads](http://goodreads.com/fuyuko_gratton){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/fuyuko){:target="_blank"} \| [GitHub](https://github.com/fuyuko){:target="_blank"} \| [goodreads](http://goodreads.com/fuyuko_gratton){:target="_blank"}
 
 --- 
 ### Summary
