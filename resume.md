@@ -14,8 +14,13 @@ Bilingual (English and Japanese) Technical Customer Support Specialist with a fo
 ---
 ### Experience
 
+##### Project Manager / Busines Analyst for survey.epam.com  
+*EPAM Systems* | Austin, TX | 08/2024 - Present  
+- Assist Delivery Manager to resurrect an once-inactive project, survey.epam.com, and launch an internal survey application for EPAM employees. The primary objective of my role is to support & motievate engineers tem members to keep the project active and making progress. As a secondary role, I am responsible to review and reorganize BA assets to reflect the current project status.
+- About this project: Development of a future EPAM internal tool,  Survey 'N' Review Platform,  which provides the flexibility of creating, and conducting customizable surveys with the ability to complete an in-depth analysis on surveyed results. 
+
 ##### Application Support Analyst for ISE Tooling  
-*EPAM Systems* | Austin, TX | 07/2022 - Present  
+*EPAM Systems* | Austin, TX | 07/2022 - 09/2024  
 - Provide technical support for the SPUR tool, including integration plan review and approval, code debugging, documentation maintenance, and updates.
 - Support channels used aree issue tracker, Q&A forum, office hours, and chat.
 
