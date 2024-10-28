@@ -6,3 +6,4 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 images/.DS_Store
+_draft/
