@@ -16,13 +16,23 @@ Bilingual (English and Japanese) Technical Customer Support Specialist with a fo
 
 ##### Project Manager / Busines Analyst for survey.epam.com  
 *EPAM Systems* | Austin, TX | 08/2024 - Present  
-- Assist Delivery Manager to resurrect an once-inactive project, survey.epam.com, and launch an internal survey application for EPAM employees. The primary objective of my role is to support & motievate engineers tem members to keep the project active and making progress. As a secondary role, I am responsible to review and reorganize BA assets to reflect the current project status.
-- About this project: Development of a future EPAM internal tool,  Survey 'N' Review Platform,  which provides the flexibility of creating, and conducting customizable surveys with the ability to complete an in-depth analysis on surveyed results. 
+- Assist Delivery Manager to resurrect an once-inactive project, survey.epam.com, and launch an internal survey application for EPAM employees.
+- Support & motivate engineer team members to keep the project active and moving.
+- Review and reognaize BA assets to reflect the current project status.
+
+About survey.epam.com: Development of a future EPAM internal tool,  Survey 'N' Review Platform,  which provides the flexibility of creating, and conducting customizable surveys with the ability to complete an in-depth analysis on surveyed results. 
 
 ##### Application Support Analyst for ISE Tooling  
-*EPAM Systems* | Austin, TX | 07/2022 - 09/2024  
-- Provide technical support for the SPUR tool, including integration plan review and approval, code debugging, documentation maintenance, and updates.
-- Support channels used aree issue tracker, Q&A forum, office hours, and chat.
+*EPAM Systems* | 07/2022 - 09/2024  
+Provided technical support operations for Google's SPUR tool over a 2-year period, significantly reducing workload for the core SPUR engineering team while maintaining exceptional service quality. 
+Key responsibilities included:
+
+- Established and optimized streamlined processes for triaging, processing, and addressing high-volume technical support requests
+- Managed end-to-end SPUR tool onboarding, including plan reviews and approvals through Buganizer
+- Provided expert technical guidance through YAQs platform and dedicated office hours, consistently receiving excellent feedback from the SPUR engineering teams and SPUR users
+- Conducted the user code reviews and debugging sessions to ensure successful SPUR implementation
+- Authored and maintained the technical documentation, including user guides and codelabs
+- Continuously improved SPUR onboarding and support processes based on user feedback and operational metrics
 
 ##### Application Support Analyst for Google Cloud - Shard POC  
 *EPAM Systems* | Austin, TX | 10/2018 - 06/2022  
