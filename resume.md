@@ -9,7 +9,7 @@ title: Resume
 --- 
 ### Summary
 
-Bilingual (English and Japanese) Technical Customer Support Specialist with a focus on cloud computing, PaaS, and Big Data. Extensive experience in CMS customization, web development, network administration, and database management.
+Versatile Technical Professional with over 15 years of experience, progressing from Full-Stack Web Development to Enterprise Support Operations and Project Management. Currently leading as a Project Manager/Business Analyst at EPAM Systems, spearheading internal survey platform development while leveraging extensive experience managing mission-critical support operations for Google's SPUR tool and Google Cloud Platform.
 
 ---
 ### Experience
