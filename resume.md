@@ -42,9 +42,9 @@ Key responsibilities included:
 
 ##### Lead Web Developer 
 *Cazbah Total Internet Marketing Solution* | Rochester, NY | 01/2011 - 10/2018  
-- Led the transformation of the corporate web hosting infrastructure from IIS/MsSQL to a cloud-based Linux/MySQL/Aurora environment, significantly reducing costs.
-- Converted proprietary ASP.NET CMS websites to WordPress.
-- Developed custom WordPress plugins and a PHP-based custom group fundraising web application.
+- Architected and executed migration of 100+ DotNetNuke sites to AWS cloud infrastructure, reducing monthly costs to under $2000. Designed AWS production environment using EC2 and RDS services for WordPress hosting. Led website implementations including WordPress theme development, custom plugin modifications, and technical oversight of the Production Department's development team.
+- Managed three major e-commerce platform migrations, transitioning 100+ small business sites through Cazbah, DotNetNuke, and WordPress WooCommerce platforms. Developed automation tools for data migration and platform customization across Magento, Shopify, and other proprietary systems. Implemented product data structure optimization and cross-platform SKU mapping systems for seamless integration.
+- Performed business analysis for client onboarding and technical requirements gathering. Configured and maintained e-commerce systems including inventory management, accounting applications, and shipping solutions. Established monitoring systems for production environment and stakeholder reporting while ensuring optimal platform performance and availability.
 
 ##### Web Production Specialist  
 *Cazbah Total Internet Marketing Solution* | Rochester, NY | 11/2006 - 12/2010  
