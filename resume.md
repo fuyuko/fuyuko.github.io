@@ -9,7 +9,7 @@ title: Resume
 --- 
 ### Summary
 
-Versatile Technical Professional with over 15 years of experience, progressing from Full-Stack Web Development to Enterprise Support Operations and Project Management. Currently leading as a Project Manager/Business Analyst at EPAM Systems, spearheading internal survey platform development while leveraging extensive experience managing mission-critical support operations for Google's SPUR tool and Google Cloud Platform.
+Experienced technical professional with over 15 years of diverse experience, including enterprise support operations, project management, and web development. Currently serving as a Project Manager/Business Analyst at EPAM Systems, leading the development of an internal survey platform.  My experiences at Google include managing support operations for Google's SPUR tool and providing technical support for enterprise-level customers at Google Cloud Platform.
 
 ---
 ### Experience
@@ -36,9 +36,10 @@ Key responsibilities included:
 
 ##### Application Support Analyst for Google Cloud - Shard POC  
 *EPAM Systems* | Austin, TX | 10/2018 - 06/2022  
-- Delivered frontline enterprise-level support, as a vendor support representative Google Cloud Platform PaaS, Big Data, and Machine Learning products in English and Japanese.
-- Support channels used are email, chat, and phone.
-- Served as a Point of Contact (POC) between vendor team and Google team, as well as a Subject Matter Expert (SME) for PaaS and Big Data shards within a vendor team.
+- Delivered frontline enterprise-level support as a vendor representative for Google Cloud Platform PaaS, Big Data, and Machine Learning products
+- Served as a Point of Contact (POC) between the vendor team and Google team, as well as a Subject Matter Expert (SME) for PaaS and Big Data products within the Austin vendor team.
+- Consistently received positive CSAT from the client’s customers and recognized as the top performer of the Austin vendor team 3 consecutive years.
+
 
 ##### Lead Web Developer 
 *Cazbah Total Internet Marketing Solution* | Rochester, NY | 01/2011 - 10/2018  
@@ -54,11 +55,11 @@ Key responsibilities included:
 ---
 ### Skills
 
-- **Web Development**: WordPress, DotNetNuke, Cazbah CMS.
+- **Web Development**: Google Cloud Platform, AWS, WordPress, DotNetNuke, Cazbah CMS, Spring Boot, React, , GitHub, Mercurial
 - **Programming**: PHP, JavaScript (jQuery), CSS, HTML, SQL, C++, Java.
-- **Server Administration**: Apache, VSFTP, IIS, MySQL, MSSQL, SmarterMail, Active Directory, DHCP, DNS, AWS (EC2, RDS, S3, Glacier, VPC, IAM).
-- **Tools**: SugarCRM, Zoho CRM, Zapier, GitHub, Mercurial.
-- **Languages**: native level Japanese, expert level English. 
+- **Server Administration**: Apache, VSFTPD, IIS, MySQL, MS SQL, SmarterMail, Active Directory, DHCP, DNS
+- **Productivity Tools**: Jira, Confluence, Salesforce, SugarCRM, Zoho CRM, ZapierGoogle Workspace, Microsoft 365
+- **Languages**: Native Japanese, Expert English.
 
 ---
 ### Education
