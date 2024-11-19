@@ -12,7 +12,7 @@ title: Food
                 <article class="archive-item">
                     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>  
                     <div class="thumbnail">
-                        <img src="{{ site.baseurl }}/images/{{ post.thumbnail }}" />
+                        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.thumbnail }}" /></a>
                     </div>
                     {{ post.excerpt }}
                 </article>
