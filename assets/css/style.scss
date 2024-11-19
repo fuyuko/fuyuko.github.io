@@ -7,11 +7,15 @@ $screen-small: 400px;
 $screen-medium: 770px;
 $screen-large: 900px;
 
-$green1: #539a01;   /* bright green - h3 */
+$green1: #417901;   /* bright green - h3 meet accessibility contrast ratio against body background color */
 $green2: #467f03;   /* darker green - link */
 $green3: #4a642c;   /* darkest green - h5 */
 
 $shadow: #a2a2a285;
+
+body, #container{
+    background: #F7F7F7; /* to meet accessibility contrast ratio */
+}
 
 h2{ /* post.title, page.title */
     font-size: 34px;
@@ -28,12 +32,13 @@ h3{
     color: $green3;
     font-size: 26px;
     line-height: 1.2em;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 h4{
     margin-bottom: 10px;
     font-size: 22px;
+    color: $green1;
 }
 
 h5{
@@ -51,7 +56,7 @@ p{
     &.view{ /* author and date in a post entry */
         font-weight: normal;
         line-height: 1.3em;
-        color: #aaa;
+        color: #707070 !important;  /* to meet accessibility contrast ratio */
         letter-spacing: -1px;
     }
 }
@@ -114,17 +119,23 @@ header{
         font-size: 42px;
 
         a{
-            color: #303030;
+            color: $green2;
         }
     }
     h2{ /* site description */
         font-size: 18px;
         text-transform: lowercase;
+        color: #707070; /* to meet accessibility contrast ratio */
     }
+}
+
+footer{
+    color: #636363; /* to meet accessibility contrast ratio */
 }
 
 #nav{ /* main navigation */
     padding: 10px 0px;
+    margin-bottom: 15px;
 
     ul {
         list-style-type: none;
@@ -146,6 +157,10 @@ header{
             }
         }
     }
+}
+
+article{
+    margin-top: 20px;
 }
 
 .thumbnail{     /* thumbnail image for each post in category page */
@@ -209,6 +224,7 @@ ul.gallery{     /* image gallery */
     label, button{
         display: block;
         margin-bottom: 5px;
+        color: #616161; /* to meet accessibility contrast ratio */
     }
     input, textarea{
         width: 97%;
