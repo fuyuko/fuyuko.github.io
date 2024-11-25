@@ -98,6 +98,15 @@ img{
     }
 }
 
+.two-column {
+    display: flex;
+
+    .column {
+        flex: 1;
+        padding: 10px;
+    }
+}
+
 .inner{
     @media screen and (max-width: $screen-small) {
         max-width: $screen-small;
@@ -132,6 +141,7 @@ header{
 footer{
     color: #636363; /* to meet accessibility contrast ratio */
 }
+
 
 #nav{ /* main navigation */
     padding: 10px 0px;
@@ -215,7 +225,6 @@ ul.gallery{     /* image gallery */
 
 #my-form{ /* contact form in the footer */
     margin: 10px 0;
-    width: 50%;
     border-radius: 10px;
     background-color: #ededed;
     @media screen and (max-width: $screen-small) {
