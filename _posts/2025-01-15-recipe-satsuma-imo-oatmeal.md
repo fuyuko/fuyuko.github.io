@@ -8,6 +8,8 @@ thumbnail: satsuma-imo-oatmeal.jpeg
 
 This oatmeal may be my MOST favoriate oatmeal I've ever made so far. It's not overly sweet, satisfying, and not too high on calories...comes out about 300 kcals for 1 serving. And I can make it in about 20 minutes.
 
+<img src="/images/satsuma-imo-oatmeal.jpeg" style="max-width: 200px;" class="float-right picture-border" alt="Satsumo Imo Oatmeal" />
+
 ### Ingredients
 
 - 100g Satsuma Imo (Japanese Sweet Potato)
