@@ -22,3 +22,5 @@ This oatmeal may be my MOST favoriate oatmeal I've ever made so far. It's not ov
 1. Boil the potato in a saucepan with water for about 10 minutes until soft.
 1. Drain the water
 1. Add the sweetener, milk, oatmeal to the boiled & drained potatoe in the saucepan and cook in low-medium heat for about 5 minutes until the rolled oat is cooked and the oatmeal is thickened.
+
+### Notes
