@@ -17,6 +17,11 @@ This oatmeal may be my MOST favoriate oatmeal I've ever made so far. It's not ov
 - 10g Light Brown Sugar (or a sweetener of your choice)
 - 1 cup Unsweetened Almond Milk (or a milk of your choice)
 
+### Tools
+
+- Saucepan
+- Mandoline slicer (optional)
+
 ### Steps
 
 1. Slice the potato using a mandoline slicer. (You can cut the potato with a cooking knife instead. I use the slicer so that the potato is super thin which means I can cook it MUCH faster)
